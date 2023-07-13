@@ -1,6 +1,8 @@
 
 # pathview R package
 
+## This is the current version and under new development
+
 [![](https://img.shields.io/badge/release%20version-1.36.1-blue.svg)](https://www.bioconductor.org/packages/pathview)
 [![](https://img.shields.io/badge/devel%20version-1.37.1-green.svg)](https://github.com/datapplab/pathview)
 [![](https://img.shields.io/badge/BioC%20since-2013-blue.svg)](https://www.bioconductor.org/packages/pathview)
@@ -47,6 +49,11 @@ species = "hsa", out.suffix = "gse16873")
 ## More information
 
 Please check the <a href=https://bioconductor.org/packages/pathview/>BioC page</a> for tutorials and extra documentations. 
+
+
+Please send all queries to [Jose Luis Figueroa](mailto:jlfiguer@uncc.edu) <br />
+[Dr. Richard Allen White III](mailto:rwhit101@uncc.edu)<br />
+Or [open an issue](https://github.com/Kannapolis-Bioinformatics/pathview/issues)
 
 Also see the <a href=https://pathview.uncc.edu/>Pathview Web server</a> for interactive GUI with example graphics.
 
